@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there 👋 I am Pratham 🤠
 
-<!--
-**Prathamveer/Prathamveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I’m currently automating real-world tasks 🌎
+- 💻 I’m know JS, Java, React Native[obviously with React] and Python 🐍
+- 🔌 I'm also doing Robotics 🤖
+- ✉️ Find me at : [📬](mailto:prathamchahal@gmail.com) ⬅️
+- 💡 Trying to become a successful Ethical Hacker 👾
 
-Here are some ideas to get you started:
+Twitter - [@ChahalPratham](https://twitter.com/ChahalPratham)
+<br/>
+Instagram - [@chxhxl06](https://www.instagram.com/chxhxl_06/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer&theme=outrun&show_icons=true)
+
