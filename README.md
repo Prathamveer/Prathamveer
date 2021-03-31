@@ -13,5 +13,6 @@ Instagram - [@chxhxl06](https://www.instagram.com/chxhxl_06/)
 Spotify - [@Pratham Chahal](https://open.spotify.com/user/zq4cvtlej38cg0cvmztf9wayq)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamveer)](https://github.com/Prathamveer/github-readme-stats)
 
 
