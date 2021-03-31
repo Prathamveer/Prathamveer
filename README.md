@@ -14,5 +14,5 @@ Spotify - [@Pratham Chahal](https://open.spotify.com/user/zq4cvtlej38cg0cvmztf9w
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer&theme=outrun&show_icons=true)
 <a href="https://github.com/Prathamveer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamveer&layout=compact&hide=javascript&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamveer&layout=compact&hide=javascript&show=python&theme=material-palenight" />
 </a>
