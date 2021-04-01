@@ -15,4 +15,4 @@ Spotify - [@Pratham Chahal](https://open.spotify.com/user/zq4cvtlej38cg0cvmztf9w
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer&theme=tokyonight&show_icons=true)
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&theme=tokyonight&hide=objective-c,GLSL,rust,Assembly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&theme=tokyonight&hide=objective-c,GLSL,rust,Assembly,typescript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
