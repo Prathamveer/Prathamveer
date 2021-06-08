@@ -16,3 +16,6 @@ Spotify - [@Pratham Chahal](https://open.spotify.com/user/zq4cvtlej38cg0cvmztf9w
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&theme=tokyonight&hide=objective-c,GLSL,rust,Assembly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="www.tanishqsinghanands.live">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamveer&theme=github_dark" />
+</a>
