@@ -1,7 +1,7 @@
-<pre><i><b><h4 align="center">Long exposure to dark mode has made me Code blooded, making me addicted to the unique parseltongue, Python.<br>I now speak in this cryptic language, while often been fueled from the energy of black coffee<br>whilst listening to dope songs ~ ©</h4></b></i></pre>
+<pre><i><b><h4 align="center">Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. <br>-Steve Jobs.</h4></b></i></pre>
 <hr>
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi there!! I am Saket :metal: ~ </h2>
-I go by the alias <b>"outcast_dreamer"</b> on most platforms and love to code and I am an avid coder in Python. I am interested in domains such as Full stack development, Data Science and Automation and currently going full throttle with my learning phase on these topics ~ :bow:
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi there!! I am Pratham Chahal :metal: ~ </h2>
+A.k.a <b>"Alphahawk"</b>... it's just a name I thought I made but later found out it was a nerf gun name... well here's my bio~ :bow:
 <hr> 
 
 - 👨‍💻 I’m currently automating real-world tasks 🌎
