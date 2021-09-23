@@ -6,7 +6,7 @@ A.k.a <b>"Alphahawk"</b>... it's just a name I believed I invented but later fou
 
 - 👨‍💻 I’m currently automating real-world tasks 🌎
 - 💻 I know JS, Java, React Native[obviously with React] and Python 🐍
-- 🔌 I'm also doing Robotics 🤖
+- 🔌 I'm learning to build prosthetics using Mechatronics 🤖
 - ✉️ Find me at : [📬](mailto:prathamchahal@gmail.com) ⬅️
 - 💡 Trying to become a successful Ethical Hacker 👾
 
