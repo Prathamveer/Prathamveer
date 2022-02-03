@@ -5,8 +5,7 @@ A.k.a <b>"Alphahawk"</b>... it's just a name I believed I invented but later fou
 <hr> 
 
 - 👨‍💻 I’m currently automating real-world tasks 🌎
-- 💻 Web Programmer, Backend developer and the list goes on… 🐍
-- 🔌 Combining my programming skills with mechatronics to do something for the greater good🤖
+- 🔌 Trying to combine my coding knowledge with mechatronics 🤖
 - ✉️ Find me at : [📬](mailto:prathamchahal@gmail.com) ⬅️
 - 💡 Trying to become a successful Ethical Hacker 👾
 
